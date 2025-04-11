@@ -7,6 +7,7 @@
 </head>
 <body>
     <h1> the heading</h1>
+    <h2>secound  heading </h2>
     
 </body>
 </html>
